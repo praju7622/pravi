@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 4205
+gpgconf: warning: can not open config file /home/praju7622/.gnupg/gpg-agent.conf: No such file or directory
